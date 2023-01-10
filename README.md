@@ -7,7 +7,7 @@
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://scontent.ffor25-1.fna.fbcdn.net/v/t39.30808-6/319644478_5782196391872686_8481628446608481346_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=730e14&_nc_ohc=y-OZU73UgMYAX8gyx-U&_nc_ht=scontent.ffor25-1.fna&oh=00_AfB_iYsiz7sE7wF-M-OATdLUe7xc8fozQSEpK5ODXCqs9g&oe=63C27CD8">
+  <img align="right" alt="Rafa-pic" height="350" style="border-radius:50px;" src="https://scontent.ffor25-1.fna.fbcdn.net/v/t39.30808-6/319644478_5782196391872686_8481628446608481346_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=730e14&_nc_ohc=y-OZU73UgMYAX8gyx-U&_nc_ht=scontent.ffor25-1.fna&oh=00_AfB_iYsiz7sE7wF-M-OATdLUe7xc8fozQSEpK5ODXCqs9g&oe=63C27CD8">
 </div>
   
   ##
